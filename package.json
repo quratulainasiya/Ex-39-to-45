@@ -1,0 +1,18 @@
+{
+  "name": "ex-39-to-45",
+  "version": "1.0.0",
+  "main": "index.js",
+  "target":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.14.8",
+    "D": "^1.0.0"
+  }
+}
